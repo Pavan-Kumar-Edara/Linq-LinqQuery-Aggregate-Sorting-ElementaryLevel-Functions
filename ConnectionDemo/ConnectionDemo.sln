@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectionDemo", "ConnectionDemo\ConnectionDemo.csproj", "{3FE2B226-7756-4B4B-8C4A-81B842C15F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq To Objects", "Linq To Objects\Linq To Objects.csproj", "{99E12E85-4660-4311-AE1B-790F617D8DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE2B226-7756-4B4B-8C4A-81B842C15F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE2B226-7756-4B4B-8C4A-81B842C15F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE2B226-7756-4B4B-8C4A-81B842C15F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE2B226-7756-4B4B-8C4A-81B842C15F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E12E85-4660-4311-AE1B-790F617D8DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E12E85-4660-4311-AE1B-790F617D8DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E12E85-4660-4311-AE1B-790F617D8DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E12E85-4660-4311-AE1B-790F617D8DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD0309A-6FBA-4233-BFFD-E1F6FD745AD9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\bin\Debug\net6.0\Linq To Objects.exe
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\bin\Debug\net6.0\Linq To Objects.deps.json
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\bin\Debug\net6.0\Linq To Objects.runtimeconfig.json
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\bin\Debug\net6.0\Linq To Objects.dll
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\bin\Debug\net6.0\Linq To Objects.pdb
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\obj\Debug\net6.0\Linq To Objects.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\obj\Debug\net6.0\Linq To Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\obj\Debug\net6.0\Linq To Objects.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\obj\Debug\net6.0\Linq To Objects.AssemblyInfo.cs
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\obj\Debug\net6.0\Linq To Objects.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\obj\Debug\net6.0\Linq To Objects.dll
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\obj\Debug\net6.0\refint\Linq To Objects.dll
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\obj\Debug\net6.0\Linq To Objects.pdb
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\obj\Debug\net6.0\Linq To Objects.genruntimeconfig.cache
+C:\Users\pavan\source\repos\ConnectionDemo\Linq To Objects\obj\Debug\net6.0\ref\Linq To Objects.dll
